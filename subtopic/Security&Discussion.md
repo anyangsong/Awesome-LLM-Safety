@@ -497,6 +497,14 @@
 | 26.06 | State Key Laboratory for Novel Software Technology, Nanjing University, China | ACM Transactions on Software Engineering and Methodology | [Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation](https://arxiv.org/abs/2606.10749) | **LLM agent security**&**threat surfaces**&**defense evaluation** |
 | 26.06 | School of Computer Science and Engineering, Guangzhou Institute of Science and Technology, Guangzhou, China | arxiv | [Understanding and mitigating the risks of OpenClaw for non-technical users: A practical guide with Skill](https://arxiv.org/abs/2606.11007) | **OpenClaw risks**&**agent security**&**user guidance** |
 | 26.06 | Zhejiang University | arxiv | [MultiToP: Learning to Patch Visual Tokens to Mitigate Hallucinations in Video Large Multimodal Models](https://arxiv.org/abs/2606.11792) | **video hallucination**&**visual token patching**&**multimodal models** |
+| 26.06 | University of Chinese Academy of Sciences, Beijing, China | arxiv | [From Refusal Geometry to Safety Geometry: Harmfulness–Refusal Coupling under Dynamic Adversarial Fine-Tuning](https://arxiv.org/abs/2606.16349) | **Refusal Geometry**&**Safety Alignment**&**Adversarial Fine-Tuning** |
+| 26.06 | Korea AI Safety Institute | arxiv | [An Evaluation of Data Leakage Risks in Tool-Using LLM Agents in Realistic Scenarios](https://arxiv.org/abs/2606.17114) | **agent safety**&**data leakage**&**tool use** |
+| 26.06 | Department of Computer Science, Vanderbilt University | arxiv | [Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents](https://arxiv.org/abs/2606.18223) | **cyber defense**&**imitation learning**&**neurosymbolic agents** |
+| 26.06 | Peking University | arxiv | [TRIDENT: Breaking the Hybrid–Safety–Physics Coupling for Provably Safe Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2606.18308) | **safe MARL**&**hybrid actions**&**physics constraints** |
+| 26.06 | National University of Singapore | arxiv | [CODE-AUGUR: Agentic Vulnerability Detection via Specification Inference](https://arxiv.org/abs/2606.18619) | **Vulnerability Detection**&**Specification Inference**&**LLM Agents** |
+| 26.06 | DATUMO INC., Republic of Korea | arxiv | [FinRED: An Expert-Guided Benchmark Generation and Evaluation Framework for Financial LLM Red-Teaming](https://arxiv.org/abs/2606.19887) | **financial red teaming**&**LLM safety benchmarks**&**risk taxonomy** |
+| 26.06 | CapitalOne | ICML 2026 Workshop on Hypothesis Testing | [What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?](https://arxiv.org/abs/2606.20508) | **in-context learning**&**jailbreak demonstrations**&**harmful compliance** |
+| 26.06 | Zhejiang University, Hangzhou, China | CCS 2026 | [Understanding and Mitigating Prompt Leaking Attacks in Real-World LLM-Based Applications](https://arxiv.org/abs/2606.18673) | **prompt leakage**&**system prompts**&**soft prompt defense** |
 
 
 

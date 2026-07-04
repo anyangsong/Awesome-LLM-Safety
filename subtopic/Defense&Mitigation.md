@@ -944,7 +944,16 @@
 | 26.06 | Université de Montréal | ICLR 2026 | [SHAPO: Sharpness-Aware Policy Optimization for Safe Exploration](https://arxiv.org/abs/2606.10228) | **Safe Exploration**&**Reinforcement Learning**&**Policy Optimization** |
 | 26.06 | Institute of Artificial Intelligence, State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, Beijing, 100191, China | ICML 2026 | [MESA: Improving MoE Safety Alignment via Decentralized Expertise](https://arxiv.org/abs/2606.00651) | **MoE Safety**&**Safety Alignment**&**Optimal Transport** |
 | 26.06 | Huazhong University of Science and Technology | USENIX Security 2026 | [Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics](https://arxiv.org/abs/2606.07335) | **Jailbreak Detection**&**Manifold Analysis**&**Adaptive Attacks** |
-
+| 26.06 | South China University of Technology | arxiv | [FreoStream: Enhancing Stream Guardrails via Future-Aware Reasoning and Safety-Aligned Optimization](https://arxiv.org/abs/2606.13737) | **Stream Guardrails**&**Future Reasoning**&**Jailbreak Defense** |
+| 26.06 | Swinburne University of Technology, Melbourne, Australia | arxiv | [FactoryLLM: A Safe and Open-Source AI Playground for Evaluating LLMs in Smart Factories](https://arxiv.org/abs/2606.14119) | **Smart Manufacturing**&**RAG Evaluation**&**Industrial LLMs** |
+| 26.06 | SnT, University of Luxembourg | ICML 2026 | [CSPO: Constraint-Sensitive Policy Optimization for Safe Reinforcement Learning](https://arxiv.org/abs/2606.14415) | **Safe RL**&**Policy Optimization**&**Constraint Sensitivity** |
+| 26.06 | Florida State University | arxiv | [Let Them Steal: Trapping Large Language Model Extraction Attacks with Knowledge Honeypot](https://arxiv.org/abs/2606.15810) | **Model Extraction**&**Knowledge Honeypot**&**LLM Defense** |
+| 26.06 | East China Normal University, Shanghai, China | arxiv | [DoubtProbe: Black-Box Jailbreak Defense via Structural Verification and Semantic Auditing](https://arxiv.org/abs/2606.16527) | **Jailbreak Defense**&**Structural Verification**&**Semantic Auditing** |
+| 26.06 | The State Key Laboratory of Blockchain and Data Security, Zhejiang University | arxiv | [Adaptive and Explicit <safe>: Triggering Latent Safety Awareness in Large Reasoning Models](https://arxiv.org/abs/2606.16808) | **LRM safety**&**safety alignment**&**jailbreak defense** |
+| 26.06 | Department of Computer Science, Tufts University | arxiv | [AnchorKV: Safety-Aware KV Cache Compression via Soft Penalty with a Refusal Anchor](https://arxiv.org/abs/2606.17872) | **KV cache**&**jailbreak robustness**&**safety alignment** |
+| 26.06 | Institute for Interdisciplinary Information Sciences, Tsinghua University | arxiv | [Beyond Safe Data: Pretraining-Stage Alignment with Regular Safety Reflection](https://arxiv.org/abs/2606.19168) | **Safety Alignment**&**Pretraining Reflection**&**Unsafe Generalization** |
+| 26.06 | National Yang Ming Chiao Tung University | arxiv | [CodeSentinel: A Three-Layer Defense Against Indirect Prompt Injection in Code Contexts](https://arxiv.org/abs/2606.19235) | **Prompt Injection**&**Code LLMs**&**Input Sanitization** |
+| 26.06 | Zhejiang University, Hangzhou, China | ICML 2026 | [SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling](https://arxiv.org/abs/2606.19755) | **speculative decoding**&**inference-time safety**&**jailbreak defense** |
 
 
 

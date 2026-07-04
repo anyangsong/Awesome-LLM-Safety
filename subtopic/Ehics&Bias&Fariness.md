@@ -445,6 +445,8 @@
 | 26.06 | University of Michigan | arxiv | [It Takes One to Bias Them All: Breaking Bad with One-Shot GRPO](https://arxiv.org/abs/2606.10931) | **GRPO**&**bias induction**&**alignment robustness** |
 | 26.06 | Computational Intelligence & Modeling, Los Alamos National Laboratory, Los Alamos, New Mexico, USA | arxiv | [Occupational Prompting Reveals Cultural Bias in Large Language Models](https://arxiv.org/abs/2606.12443) | **cultural bias**&**occupational prompting**&**value surveys** |
 | 26.06 | Graduate School of Data Science, Seoul National University | arxiv | [Polar: A Benchmark for Evaluating Political Bias in LLMs](https://arxiv.org/abs/2606.12922) | **Political Bias**&**LLM Evaluation**&**Multilingual Benchmarks** |
+| 26.06 | Carnegie Mellon University | arxiv | [SEVRA-BENCH: Social Engineering of Vulnerabilities in Review Agents](https://arxiv.org/abs/2606.13757) | **Code Review Agents**&**Social Engineering**&**Vulnerability Benchmark** |
+| 26.06 | Carnegie Mellon University | arxiv | [Hidden in Plain Sight: Benchmarking Agent Safety Against Decomposition Attacks with DECOMPBENCH](https://arxiv.org/abs/2606.13994) | **Agent Safety**&**Decomposition Attacks**&**Safety Benchmark** |
 
 
 ## 💻Presentations & Talks

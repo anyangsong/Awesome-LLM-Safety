@@ -503,6 +503,15 @@
 | 26.06 | University of Central Florida | arxiv | [MPC-Patch-Bench: Security-Aware LLM Code Patch for Multi-Party Computation](https://arxiv.org/abs/2606.11416) | **MPC code repair**&**LLM benchmark**&**security verification** |
 | 26.06 | College of Engineering and Science, Florida Institute of Technology, Melbourne, Florida, USA | arxiv | [Can Open-Source LLM Agents Replace Static Application Security Testing Tools? An Empirical Assessment](https://arxiv.org/abs/2606.11672) | **SAST evaluation**&**LLM agents**&**cybersecurity testing** |
 | 26.06 | NASK National Research Institute, Warsaw, Poland | ACL 2026 Findings | [Multilingual Refusal Alignment for Safer Large Language Models](https://arxiv.org/abs/2606.07535) | **Multilingual Alignment**&**Refusal Safety**&**DPO** |
+| 26.06 | University of California, Santa Cruz | arxiv | [OSGuard: A Benchmark for Safety in Computer-Use Agents](https://arxiv.org/abs/2606.15034) | **Computer-Use Agents**&**Agent Safety**&**Safety Benchmarks** |
+| 26.06 | East China Normal University, Shanghai, China | arxiv | [Benign in Isolation, Harmful in Composition: Security Risks in Agent Skill Ecosystems](https://arxiv.org/abs/2606.15242) | **Agent Skills**&**Composition Risk**&**LLM Security** |
+| 26.06 | KUIS AI Center, Koç University | arxiv | [Reward Hacking in Language Model Agents: Revisiting AI Safety Gridworlds](https://arxiv.org/abs/2606.15385) | **Reward Hacking**&**Language Agents**&**AI Safety** |
+| 26.06 | Tsinghua University | arxiv | [CHILLGuard: Towards Fine-Grained Chinese LLM Safety Guardrail with Scalable Data Construction and Model-aware Preference Alignment](https://arxiv.org/abs/2606.15396) | **Chinese LLM Safety**&**Content Guardrails**&**Preference Alignment** |
+| 26.06 | SUPREME Lab, University of Texas at El Paso, Texas, USA | arxiv | [SkillVetBench: LLM-as-Judge for Multi-Dimensional Security Risk Evaluation in Open-Source LLM Agent Skills](https://arxiv.org/abs/2606.15899) | **Agent Skills**&**Security Evaluation**&**LLM-as-Judge** |
+| 26.06 | Carnegie Mellon University | arxiv | [Security and Privacy Prompts in the Wild: What Users Ask LLMs and How LLMs Respond](https://arxiv.org/abs/2606.18062) | **privacy prompts**&**LLM responses**&**security advice** |
+| 26.06 | Peking University | arxiv | [SafeClawBench: Separating Semantic, Audit-Evidence, and Sandbox Harm in Tool-Using LLM Agents](https://arxiv.org/abs/2606.18356) | **Agent Security**&**Prompt Injection**&**Tool Harm** |
+| 26.06 | Brain-inspired Cognitive Intelligence Lab, Institute of Automation, Chinese Academy of Sciences, Beijing, China | arxiv | [SciRisk-Bench: A Risk-Dimension-Aware Benchmark for AI4Science Safety](https://arxiv.org/abs/2606.18936) | **AI4Science Safety**&**Risk Benchmark**&**Scientific LLMs** |
+| 26.06 | AIM Intelligence, Republic of Korea | arxiv | [NRT-Bench: Benchmarking Multi-Turn Red-Teaming of LLM Operator Agents in Safety-Critical Control Rooms](https://arxiv.org/abs/2606.20408) | **multi-turn red teaming**&**LLM agent safety**&**safety-critical systems** |
 
 
 

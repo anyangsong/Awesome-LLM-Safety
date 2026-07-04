@@ -575,6 +575,9 @@
 | 26.06 | University of California, Los Angeles | arxiv | [Defense Against Prompt Inversion Attacks: An Information-Theoretic Approach for LLM Collaborative Inference](https://arxiv.org/abs/2606.11592) | **prompt inversion**&**collaborative inference**&**privacy adapters** |
 | 26.06 | No affiliation listed in PDF | arxiv | [OCELOT: Inference-Leakage Budgets for Privacy-Preserving LLM Agents](https://arxiv.org/abs/2606.12341) | **agent privacy**&**inference leakage**&**runtime mediation** |
 | 26.06 | The Chinese University of Hong Kong | arxiv | [CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents](https://arxiv.org/abs/2606.12666) | **Mobile GUI agents**&**Privacy exposure**&**Selective redaction** |
+| 26.06 | Virginia Tech, Arlington and Blacksburg, VA, USA | ICML 2026 | [MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization](https://arxiv.org/abs/2606.13949) | **Agent Privacy**&**UI Sanitization**&**Data Minimization** |
+| 26.06 | Shanghai Artificial Intelligence Laboratory | arxiv | [Intern-Shannon: Privacy-Preserving Text Sanitization for Distributed Agents Collaboration via Disentangled Representations](https://arxiv.org/abs/2606.15335) | **Text Sanitization**&**Multi-Agent Privacy**&**Disentangled Representations** |
+| 26.06 | Shanghai Jiao Tong University, Shanghai, China | arxiv | [Image Prompt Reconstruction Attacks on Distributed MLLM Inference Frameworks](https://arxiv.org/abs/2606.18710) | **Prompt Reconstruction**&**MLLM Privacy**&**Distributed Inference** |
 
 
 
