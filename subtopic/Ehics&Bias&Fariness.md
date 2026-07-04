@@ -447,6 +447,9 @@
 | 26.06 | Graduate School of Data Science, Seoul National University | arxiv | [Polar: A Benchmark for Evaluating Political Bias in LLMs](https://arxiv.org/abs/2606.12922) | **Political Bias**&**LLM Evaluation**&**Multilingual Benchmarks** |
 | 26.06 | Carnegie Mellon University | arxiv | [SEVRA-BENCH: Social Engineering of Vulnerabilities in Review Agents](https://arxiv.org/abs/2606.13757) | **Code Review Agents**&**Social Engineering**&**Vulnerability Benchmark** |
 | 26.06 | Carnegie Mellon University | arxiv | [Hidden in Plain Sight: Benchmarking Agent Safety Against Decomposition Attacks with DECOMPBENCH](https://arxiv.org/abs/2606.13994) | **Agent Safety**&**Decomposition Attacks**&**Safety Benchmark** |
+| 26.06 | Northeastern University, Boston, MA, USA | arxiv | [One Year Later… The Harms Persist, But So Do We!](https://arxiv.org/abs/2606.23884) | **Mental Health**&**LLM Safeguards**&**Jailbreak Evaluation** |
+| 26.06 | INSAIT, Sofia University “St. Kliment Ohridski”, Bulgaria | arxiv | [To Compare, or Not to Compare: On Methodological Practices in Evaluating Social Bias](https://arxiv.org/abs/2606.24596) | **social bias**&**bias evaluation**&**comparative prompting** |
+| 26.06 | Qwen Large Model Application Team, Alibaba | arxiv | [PolicyAlign: Direct Policy-Based Safety Alignment for Large Language Models](https://arxiv.org/abs/2606.25442) | **policy alignment**&**safety policies**&**self-distillation** |
 
 
 ## 💻Presentations & Talks

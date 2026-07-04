@@ -105,6 +105,7 @@
 | 26.06 | Mohamed Bin Zayed University of AI, UAE | arxiv | [Exploring Adversarial Robustness and Safety Alignment in Multilingual Multi-Modal Large Language Models](https://arxiv.org/abs/2606.03793) | **Multilingual MLLMs**&**Adversarial robustness**&**Safety alignment** || 26.06 | Mohamed Bin Zayed University of AI, UAE | arxiv | [Exploring Adversarial Robustness and Safety Alignment in Multilingual Multi-Modal Large Language Models](https://arxiv.org/abs/2606.03793) | **Multilingual MLLMs**&**Adversarial robustness**&**Safety alignment** |
 | 26.06 | Griffith University | arxiv | [From Agent Traces to Trust: Evidence Tracing and Execution Provenance in LLM Agents](https://arxiv.org/abs/2606.04990) | **Evidence Tracing**&**Execution Provenance**&**LLM Agents** |
 | 26.06 | GECAD, ISEP, Polytechnic of Porto, rua Dr. António Bernardino de Almeida, 4249-015 Porto, Portugal | KES 2026 | [Influence Factors on RAG Poisoning](https://arxiv.org/abs/2606.12469) | **RAG poisoning**&**Adversarial retrieval**&**Robustness** |
+| 26.06 | Alibaba Security AGI Lab | arxiv | [Yuvion VL: A Multimodal Foundation Model for Adversarial Content and AI Safety](https://arxiv.org/abs/2606.25034) | **multimodal safety**&**adversarial robustness**&**foundation models** |
 
 
 

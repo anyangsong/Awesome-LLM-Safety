@@ -512,6 +512,11 @@
 | 26.06 | Peking University | arxiv | [SafeClawBench: Separating Semantic, Audit-Evidence, and Sandbox Harm in Tool-Using LLM Agents](https://arxiv.org/abs/2606.18356) | **Agent Security**&**Prompt Injection**&**Tool Harm** |
 | 26.06 | Brain-inspired Cognitive Intelligence Lab, Institute of Automation, Chinese Academy of Sciences, Beijing, China | arxiv | [SciRisk-Bench: A Risk-Dimension-Aware Benchmark for AI4Science Safety](https://arxiv.org/abs/2606.18936) | **AI4Science Safety**&**Risk Benchmark**&**Scientific LLMs** |
 | 26.06 | AIM Intelligence, Republic of Korea | arxiv | [NRT-Bench: Benchmarking Multi-Turn Red-Teaming of LLM Operator Agents in Safety-Critical Control Rooms](https://arxiv.org/abs/2606.20408) | **multi-turn red teaming**&**LLM agent safety**&**safety-critical systems** |
+| 26.06 | Supervised Program for Alignment Research (SPAR) | arxiv | [Efficient Safety Benchmarking via Item Response Theory](https://arxiv.org/abs/2606.20626) | **safety benchmarking**&**item response theory**&**adaptive evaluation** |
+| 26.06 | The Italian Institute of Artificial Intelligence (AI4I), Turin, Italy | arxiv | [PHANTOM: A Large-Scale Dataset of Multimodal Adversarial Attacks for Vision-Language Models](https://arxiv.org/abs/2606.24388) | **multimodal adversarial attacks**&**VLM safety**&**safety datasets** |
+| 26.06 | University College London | arxiv | [HelpBench: Assessing the Ability of LLMs to Provide Privacy, Safety, and Security Advice](https://arxiv.org/abs/2606.24819) | **privacy safety security**&**help-seeking benchmark**&**LLM advice** |
+| 26.06 | Centre for Machine Intelligence and Data Science, IIT Bombay | arxiv | [Jailbreaking for the Average Jane: Choosing Optimal Jailbreaks via Bandit Algorithms for Automatically Enhanced Queries](https://arxiv.org/abs/2606.26936) | **jailbreak attacks**&**bandit algorithms**&**safety benchmarks** |
+| 26.06 | University of Groningen | arxiv | [Paved with True Intents: Intent-Aware Training Improves LLM Safety Classification Across Training Regimes](https://arxiv.org/abs/2606.27210) | **Safety Classification**&**Intent Modeling**&**Guardrail Training** |
 
 
 

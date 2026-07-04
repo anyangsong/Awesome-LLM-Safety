@@ -139,6 +139,7 @@
 | 26.05 | Dalian University of Technology | arxiv | [Harder to Defend: Towards Chinese Toxicity Attacks via Implicit Enhancement and Obfuscation Rewriting](https://arxiv.org/abs/2605.22258) | **ChineseToxicity**&**RedTeaming**&**Obfuscation** |
 | 26.05 | Fondazione Bruno Kessler | arxiv | [Assisted Counterspeech Writing at the Crossroads of Hate Speech and Misinformation](https://arxiv.org/abs/2605.22435) | **Counterspeech**&**HateSpeech**&**Misinformation** |
 | 26.05 | Indian Institute of Technology Gandhinagar | arxiv | [Where Does Toxicity Live? Mechanistic Localization and Targeted Suppression in Language Models](https://arxiv.org/abs/2605.27997) | **Toxicity Mitigation**&**Mechanistic Interpretability**&**Neuron Editing** |
+| 26.06 | Scale AI | ACL 2026 | [A Survey of Toxicity Detection and Mitigation Strategies for Multilingual Language Models](https://arxiv.org/abs/2606.25380) | **Multilingual Safety**&**Toxicity Detection**&**Detoxification** |
 
 
 

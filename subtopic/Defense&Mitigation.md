@@ -954,6 +954,19 @@
 | 26.06 | Institute for Interdisciplinary Information Sciences, Tsinghua University | arxiv | [Beyond Safe Data: Pretraining-Stage Alignment with Regular Safety Reflection](https://arxiv.org/abs/2606.19168) | **Safety Alignment**&**Pretraining Reflection**&**Unsafe Generalization** |
 | 26.06 | National Yang Ming Chiao Tung University | arxiv | [CodeSentinel: A Three-Layer Defense Against Indirect Prompt Injection in Code Contexts](https://arxiv.org/abs/2606.19235) | **Prompt Injection**&**Code LLMs**&**Input Sanitization** |
 | 26.06 | Zhejiang University, Hangzhou, China | ICML 2026 | [SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling](https://arxiv.org/abs/2606.19755) | **speculative decoding**&**inference-time safety**&**jailbreak defense** |
+| 26.06 | Zscaler, Inc. | arxiv | [Scalable Hierarchical Attention Transformers for Multi-Turn Jailbreak Detection in Long Conversations](https://arxiv.org/abs/2606.21082) | **multi-turn jailbreak**&**hierarchical attention**&**safety moderation** |
+| 26.06 | Mila and McGill University | arxiv | [Toward Open Weight Models Without Risks: Separating Public and Private Capabilities in LLMs](https://arxiv.org/abs/2606.21638) | **open-weight models**&**tiered language models**&**capability control** |
+| 26.06 | University of Southern California | TrustNLP 2026 | [The Geometry of Refusal: Linear Instability in Safety-Aligned LLMs](https://arxiv.org/abs/2606.22686) | **Refusal Steering**&**Logit Steering**&**LLM Safety** |
+| 26.06 | L3Cube-Labs, Pune | arxiv | [IndicGuard: A Multilingual Safety Guard Model and Dataset for Indic Languages](https://arxiv.org/abs/2606.22841) | **Multilingual Safety**&**Indic Languages**&**Guard Models** |
+| 26.06 | AI Security Lab, Ant Group | arxiv | [SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning](https://arxiv.org/abs/2606.22873) | **Multimodal Guardrails**&**Policy Adaptation**&**Safety Benchmark** |
+| 26.06 | University of Luxembourg | arxiv | [Detecting Malicious Agent Skills in the Wild using Attention](https://arxiv.org/abs/2606.23416) | **Agent Skills**&**Attention Detection**&**Prompt Injection** |
+| 26.06 | King's College London | arxiv | [Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control](https://arxiv.org/abs/2606.24010) | **Multi-Agent RL**&**Safety Constraints**&**Constraint Manifold** |
+| 26.06 | Princeton Language and Intelligence, Princeton University | arxiv | [Do Thinking Tokens Help with Safety?](https://arxiv.org/abs/2606.25013) | **thinking tokens**&**safety deliberation**&**over-refusal** |
+| 26.06 | ETH Zurich | Second Workshop on Technical AI Governance Research (TAIGR) @ ICML 2026 | [What Does It Mean to Break a Distillation Defense?](https://arxiv.org/abs/2606.25059) | **distillation defense**&**threat modeling**&**model extraction** |
+| 26.06 | LMU Munich, Munich, Germany | arxiv | [What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics](https://arxiv.org/abs/2606.25182) | **jailbreak detection**&**entropy dynamics**&**internal signals** |
+| 26.06 | National Yang Ming Chiao Tung University | arxiv | [Tracing Target Answers in Poisoned Retrieval Corpora via Token Influence Attribution](https://arxiv.org/abs/2606.25721) | **RAG poisoning**&**token attribution**&**poison detection** |
+| 26.06 | National Yang Ming Chiao Tung University | arxiv | [RAS: Measuring LLM Safety Through Refusal Alignment](https://arxiv.org/abs/2606.25750) | **refusal alignment**&**white-box evaluation**&**safety scoring** |
+| 26.06 | Independent | ICML 2026 Mechanistic Interpretability Workshop | [Refusal Lives Downstream of Persona in Chat Models](https://arxiv.org/abs/2606.26161) | **refusal behavior**&**model persona**&**mechanistic interpretability** |
 
 
 

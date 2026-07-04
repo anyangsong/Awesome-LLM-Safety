@@ -896,6 +896,13 @@
 | 26.06 | Computer and Information Science, University of Massachusetts, Dartmouth, MA | arxiv | [Mitigating Visual Hallucinations in Multimodal Systems through Retrieval-Augmented Reliability-Aware Inference](https://arxiv.org/abs/2606.15782) | **Visual Hallucination**&**Multimodal Reliability**&**Retrieval-Augmented Inference** |
 | 26.06 | Independent Researcher, Sunnyvale, CA, USA | Second Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD) at ICML 2026 | [LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI](https://arxiv.org/abs/2606.18021) | **legal hallucination**&**agent debate**&**trustworthy AI** |
 | 26.06 | Beijing University of Posts and Telecommunications | arxiv | [Detecting Hallucinations for Large Language Model-based Knowledge Graph Reasoning](https://arxiv.org/abs/2606.19351) | **Hallucination Detection**&**Knowledge Graphs**&**Graph Reasoning** |
+| 26.06 | Princeton University | arxiv | [Who Checks the Citations? Benchmarking Legal Hallucination Detection](https://arxiv.org/abs/2606.21155) | **legal hallucination**&**citation verification**&**benchmark** |
+| 26.06 | Shanwei Institute of Technology, Shanwei, China | arxiv | [MedHal-Loc: Are “Explainable-by-Architecture” Medical Hallucination Detectors Faithful Localizers? A Localization Benchmark](https://arxiv.org/abs/2606.21517) | **medical hallucination**&**localization faithfulness**&**explainable NLP** |
+| 26.06 | Birla Institute of Technology and Science, Goa | arxiv | [Exposing the Illusion of Erasure in Knowledge Editing for LLMs](https://arxiv.org/abs/2606.23276) | **Knowledge Editing**&**Data Erasure**&**Adversarial Elicitation** |
+| 26.06 | University of Aberdeen, Aberdeen, United Kingdom | arxiv | [A Benchmark for Hallucination Detection in VLMs for Gastrointestinal Endoscopy](https://arxiv.org/abs/2606.24115) | **Hallucination Detection**&**Medical VLMs**&**Gastrointestinal Endoscopy** |
+| 26.06 | Shanghai Artificial Intelligence Laboratory | arxiv | [MedBench v5: A Dynamic, Process-Oriented, and Hallucination-Aware Benchmark for Clinical Multimodal Models](https://arxiv.org/abs/2606.24155) | **Clinical AI**&**Process Auditing**&**Hallucination Monitoring** |
+| 26.06 | Amazon | 2nd Workshop on Compositional Learning at ICML 2026 | [Grad Detect: Gradient-Based Hallucination Detection in LLMs](https://arxiv.org/abs/2606.24790) | **hallucination detection**&**gradient analysis**&**LLM reliability** |
+| 26.06 | Alomana, Grottaglie, Italy | arxiv | [Perfect Detection, Failed Control: The Geometry of Knowing vs. Steering in Language Models](https://arxiv.org/abs/2606.24952) | **mechanistic interpretability**&**activation steering**&**hallucination control** |
 
 
 

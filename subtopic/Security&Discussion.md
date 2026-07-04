@@ -505,6 +505,21 @@
 | 26.06 | DATUMO INC., Republic of Korea | arxiv | [FinRED: An Expert-Guided Benchmark Generation and Evaluation Framework for Financial LLM Red-Teaming](https://arxiv.org/abs/2606.19887) | **financial red teaming**&**LLM safety benchmarks**&**risk taxonomy** |
 | 26.06 | CapitalOne | ICML 2026 Workshop on Hypothesis Testing | [What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?](https://arxiv.org/abs/2606.20508) | **in-context learning**&**jailbreak demonstrations**&**harmful compliance** |
 | 26.06 | Zhejiang University, Hangzhou, China | CCS 2026 | [Understanding and Mitigating Prompt Leaking Attacks in Real-World LLM-Based Applications](https://arxiv.org/abs/2606.18673) | **prompt leakage**&**system prompts**&**soft prompt defense** |
+| 26.06 | Zhejiang University | arxiv | [SKILLHARNESS: Harnessing Safe Skills for Computer-Use Agents](https://arxiv.org/abs/2606.20636) | **safe skill learning**&**computer-use agents**&**dynamic environments** |
+| 26.06 | UMass Amherst | arxiv | [Whose Agent Are You? Multi-Layer Fingerprinting and Attribution of Autonomous Web Agents](https://arxiv.org/abs/2606.20910) | **web agent fingerprinting**&**agent attribution**&**content protection** |
+| 26.06 | Shandong University, Jinan 250100, China | arxiv | [“What Happens Locally, Leaks Globally”: Detecting Privacy Leakage Risks in MCP Servers](https://arxiv.org/abs/2606.21338) | **MCP security**&**privacy leakage**&**taint analysis** |
+| 26.06 | The Chinese University of Hong Kong, Shenzhen | arxiv | [Harness-MU: A Safe, Governed, and Effective Harness for Multi-User LLM Agents](https://arxiv.org/abs/2606.21856) | **Multi-User Agents**&**Access Control**&**Agent Governance** |
+| 26.06 | University of California, Berkeley | arxiv | [REVELIO: Cost-Efficient Agentic Memory Safety Vulnerability Detection For Repository-Scale Codebases](https://arxiv.org/abs/2606.22263) | **Vulnerability Detection**&**Memory Safety**&**Coding Agents** |
+| 26.06 | University of Duisburg-Essen, Germany | arxiv | [RAVEN: Agentic RAG for Automated Vulnerability Repair](https://arxiv.org/abs/2606.22647) | **Vulnerability Repair**&**Agentic RAG**&**Patch Generation** |
+| 26.06 | University of Georgia | arxiv | [AgentLens: Interpretable Safety Steering via Mechanistic Subspaces for Multi-Turn Coding Agent](https://arxiv.org/abs/2606.22673) | **Mechanistic Interpretability**&**Coding Agents**&**Safety Steering** |
+| 26.06 | Zhejiang University | arxiv | [Safety in Self-Evolving LLM Agent Systems: Threats, Amplification, and Case Studies](https://arxiv.org/abs/2606.23075) | **LLM Agents**&**Self-Evolution**&**AI Security** |
+| 26.06 | Zhejiang University of Technology | arxiv | [AutoSpec: Safety Rule Evolution for LLM Agents via Inductive Logic Programming](https://arxiv.org/abs/2606.24245) | **Agent Safety**&**Rule Evolution**&**Inductive Logic** |
+| 26.06 | Cracken | arxiv | [Red-Teaming the Agentic Red-Team](https://arxiv.org/abs/2606.24496) | **agentic security**&**red teaming**&**sandbox escape** |
+| 26.06 | Veyon Solutions | arxiv | [How Reliable Is Your Jailbreak Judge? Calibration and Adversarial Robustness of Automated ASR Scoring](https://arxiv.org/abs/2606.25487) | **ASR scoring**&**LLM-as-judge**&**judge robustness** |
+| 26.06 | PricewaterhouseCoopers, U.S.A. | arxiv | [Do Encoders Suffice? A Systematic Comparison of Encoder and Decoder Safety Judges for LLM Adversarial Evaluation](https://arxiv.org/abs/2606.25782) | **safety judges**&**encoder classifiers**&**adversarial evaluation** |
+| 26.06 | ARYA Labs PBC | arxiv | [The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems](https://arxiv.org/abs/2606.26057) | **AI agents**&**runtime alignment**&**reference monitors** |
+| 26.06 | Xi’an Jiaotong-Liverpool University | arxiv | [TAVR-VLM: Risk-Conditioned Causal Grounding for Hallucination-Resistant Report Generation](https://arxiv.org/abs/2606.26874) | **vision-language models**&**causal grounding**&**medical hallucination** |
+| 26.06 | Shanghai Jiao Tong University | arxiv | [ShareLock: A Stealthy Multi-Tool Threshold Poisoning Attack Against MCP](https://arxiv.org/abs/2606.27027) | **MCP Security**&**Tool Poisoning**&**Prompt Injection** |
 
 
 

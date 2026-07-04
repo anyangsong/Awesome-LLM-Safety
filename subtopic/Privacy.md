@@ -578,6 +578,11 @@
 | 26.06 | Virginia Tech, Arlington and Blacksburg, VA, USA | ICML 2026 | [MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization](https://arxiv.org/abs/2606.13949) | **Agent Privacy**&**UI Sanitization**&**Data Minimization** |
 | 26.06 | Shanghai Artificial Intelligence Laboratory | arxiv | [Intern-Shannon: Privacy-Preserving Text Sanitization for Distributed Agents Collaboration via Disentangled Representations](https://arxiv.org/abs/2606.15335) | **Text Sanitization**&**Multi-Agent Privacy**&**Disentangled Representations** |
 | 26.06 | Shanghai Jiao Tong University, Shanghai, China | arxiv | [Image Prompt Reconstruction Attacks on Distributed MLLM Inference Frameworks](https://arxiv.org/abs/2606.18710) | **Prompt Reconstruction**&**MLLM Privacy**&**Distributed Inference** |
+| 26.06 | University of Waterloo | arxiv | [PrivacyAlign: Contextual Privacy Alignment for LLM Agents](https://arxiv.org/abs/2606.21710) | **Privacy Alignment**&**LLM Agents**&**Human Annotation** |
+| 26.06 | School of Control and Computer Engineering, North China Electric Power University, Beijing, 102206, China | arxiv | [Privacy-Preserving RAG via Multi-Agent Semantic Rewriting: Achieving Confidentiality Without Compromising Contextual Fidelity](https://arxiv.org/abs/2606.24623) | **privacy-preserving RAG**&**semantic rewriting**&**multi-agent systems** |
+| 26.06 | No affiliation listed in PDF | arxiv | [General Techniques for Reducing Key-Switching Overhead in Privacy-Preserving Two-Party Transformer Inference](https://arxiv.org/abs/2606.25349) | **private inference**&**homomorphic encryption**&**key switching** |
+| 26.06 | Department of Electrical and Electronics Engineering, Birla Institute of Technology and Science, Pilani, Pilani Campus | arxiv | [Security and Privacy in Retrieval-Augmented Generation: Architectures, Threats, Defenses, and Future Directions for Building Trustworthy Systems](https://arxiv.org/abs/2606.25533) | **RAG security**&**privacy threats**&**trustworthy RAG** |
+| 26.06 | University of California, Irvine | arxiv | [Agents That Know Too Much: A Data-Centric Survey of Privacy in LLM Agents](https://arxiv.org/abs/2606.26627) | **LLM agents**&**data privacy**&**information flow** |
 
 
 
